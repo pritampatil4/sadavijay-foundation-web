@@ -1,0 +1,73 @@
+@media (min-width: 1440px){
+	.container {width: 1330px;}
+	.bigTitle{font-size: 60px; margin-bottom: 35px;}
+	.colorText{margin: 30px 0px;}
+	.subtext {font-size: 26px; max-width: 900px;}
+	.colorText {font-size: 22px;}
+	.initiativesBox{margin-bottom: 30px; height: 200px;}
+	footer p {font-size: 16px;}
+	.overlay h2 {font-size: 26px;}
+}
+
+@media (min-width: 1730px){
+	.container {width: 1730px;}
+	.bigTitle{font-size: 60px;}
+	.colorText{margin: 30px 0px;}
+	.overlay h2 {font-size: 30px;}
+}
+
+
+@media (max-width: 1366px) {
+	.initiativesBox {height: 160px;}
+}
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 991px) {
+	.topMenu>li>a.topLink {margin-right: 0px;}
+	.initiativesBox {margin-bottom: 30px;}
+}
+
+@media (max-width: 840px) {
+	.overlay{padding: 15px;}
+	.overlay h2{font-size: 18px;}
+	
+}
+
+@media (max-width: 768px) {}
+
+@media (max-width: 767px) {
+	.logo {padding: 20px 30px 20px 0px;}
+	.logo>img {height: 40px;}
+	
+	.ourInitiatives{min-height: auto; padding-top: 40px;}
+	.bigTitle {font-size: 36px;}
+	.subtext{font-size: 18px; margin-bottom: 20px;}
+	.initiativesBox {margin-bottom: 30px;}
+	footer p{text-align: center; margin-bottom: 10px;}
+	.topMenu>li>a.topLink {margin-right: 0px;}
+	
+	.colorText{font-size: 16px;}
+	
+	.topMenu>li>a {font-size: 14px;}
+	.topMenu>li>a.socialIc {width: 40px; height: 40px;}
+	
+}
+
+@media (max-width: 640px) {}
+
+@media (max-width: 575px) {
+	.logo,
+	.mainHeader .col-xs-4,
+	.mainHeader .col-xs-8,
+	.col-12{width: 100%;}
+	.logo{text-align: center;}
+	.logo:after{display: none;}
+	
+	.topMenu {width: 100%; float: none; text-align: center; margin-bottom: 15px;}
+	.topMenu>li {margin: 0px 5px; float: none; display: inline-block;}
+	
+}
+@media (max-width: 480px) {}
+
+@media (max-width: 360px) {}
