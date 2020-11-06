@@ -2,4 +2,4 @@
 A landing page built for my father's NGO.
 
 
-* Website -  <https://www.sadavijay.org>
+* Website -  <http://www.sadavijay.org>
